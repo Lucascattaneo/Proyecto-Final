@@ -28,7 +28,7 @@ let datosJugadores = []
 
 let ticket = []
 
-// Un class para guardar un array con las habitaciones
+// Un class para guardar un array con las canchas
 class Cancha{
 
     constructor(id, tamanio, superficie){
